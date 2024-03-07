@@ -1,5 +1,11 @@
-# GIT WORKSHOP
+
 [![Python application](https://github.com/chrissisak/GITHUB_WS_CICD/actions/workflows/python-app.yml/badge.svg)](https://github.com/chrissisak/GITHUB_WS_CICD/actions/workflows/python-app.yml)
+
+[![HTML Validation](https://github.com/chrissisak/GITHUB_WS_CICD/actions/workflows/html_validation.yml/badge.svg)](https://github.com/chrissisak/GITHUB_WS_CICD/actions/workflows/html_validation.yml)
+
+
+# GIT WORKSHOP
+
 
 ## Introduksjon
 Dette er en workshop som går videre fra grunnleggende git-kommandoer. Vi skal i dag se på GIT CI/CD, og hvordan vi kan bruke git til å automatisere bygging og testing av kode.
